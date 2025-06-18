@@ -55,7 +55,7 @@ GIF created with **your chosen GIF tool**
 - [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-I mistakenly add number 14 instead of 15 in favourit color tab. I hope it will not create any issue. The purpose was to print the number
+I have added  number 14 mistakenly instead of 15 in favorite color tab. I hope it will not create any issue as the purpose was to print the number and remove the bug
 
 ## License
 
